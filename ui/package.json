@@ -1,0 +1,29 @@
+{
+  "name": "ui",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "ag-grid-community": "^26.2.0",
+    "ag-grid-vue3": "^26.2.0",
+    "axios": "^0.24.0",
+    "js-cookie": "^2.2.1",
+    "v-calendar": "^3.0.0-alpha.6",
+    "vue": "^3.2.16",
+    "vue-axios": "^3.4.0",
+    "vue-class-component": "^8.0.0-rc.1",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.4",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4"
+  }
+}
